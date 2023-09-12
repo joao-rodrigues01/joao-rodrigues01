@@ -9,8 +9,8 @@
 
 
  
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=joao-rodrigues01&show_icons=true&theme=radical&layout=compact" />
-<!-- <img width=40% align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joao-rodrigues01&layout=compact&bg_color=141321&border_color=3f00ff&title_color=0390fc&text_color=FFF" /> -->
+<!-- <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=joao-rodrigues01&show_icons=true&theme=radical&layout=compact" /> -->
+<img width=40% align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joao-rodrigues01&layout=compact&bg_color=141321&border_color=3f00ff&title_color=0390fc&text_color=FFF" />
 
 
 
