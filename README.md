@@ -5,7 +5,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <!-- <img width=55% align="center"  src="https://streak-stats.demolab.com/?user=joao-rodrigues01&theme=transparent&date_format=j%20M%5B%20Y%5D&background=141321&ring=0390FC&fire=0390FC&stroke=6D859D&currStreakNum=7ED6FF&sideLabels=0390FC&dates=47E8EB&currStreakLabel=0390FC)](https://git.io/streak-stats" /> -->
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joao-rodrigues01&theme=radical&mode=weekly" />
+<!-- <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joao-rodrigues01&theme=radical&mode=weekly" /> -->
 
 
  
