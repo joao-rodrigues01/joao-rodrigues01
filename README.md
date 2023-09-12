@@ -5,7 +5,8 @@
 
 <div  align="center" style="margin-bottom:100px">
 <!-- <img width=55% align="center"  src="https://streak-stats.demolab.com/?user=joao-rodrigues01&theme=transparent&date_format=j%20M%5B%20Y%5D&background=141321&ring=0390FC&fire=0390FC&stroke=6D859D&currStreakNum=7ED6FF&sideLabels=0390FC&dates=47E8EB&currStreakLabel=0390FC)](https://git.io/streak-stats" /> -->
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joao-rodrigues01&theme=radical&mode=weekly" />
+<!-- <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joao-rodrigues01&theme=radical&mode=weekly" /> -->
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
  
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=joao-rodrigues01&show_icons=true&theme=radical&layout=compact" />
 <!-- <img width=40% align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joao-rodrigues01&layout=compact&bg_color=141321&border_color=3f00ff&title_color=0390fc&text_color=FFF" /> -->
